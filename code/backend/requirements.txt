@@ -1,0 +1,30 @@
+# server requirement
+flask
+Werkzeug
+
+# video transcriptions  requirement
+moviepy
+SpeechRecognition
+python-docx
+openai
+
+
+# api requirement
+fastapi
+uvicorn
+pydantic
+
+# database requirement
+SQLAlchemy
+mysql-connector-python
+aiomysql
+
+# system requirement
+python-dotenv
+
+# routes requirement
+bcrypt
+PyJWT
+
+# azure requirement
+azure-cognitiveservices-speech=1.36.0
